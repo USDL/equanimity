@@ -1,9 +1,9 @@
 const BLOG = {
-  author: 'Equasea',
-  title: 'Equasea Blog',
+  author: 'EquaSea',
+  title: 'EquaSea Blog',
   description:
-    "Hi, I'm Witt. A JavaScript full stack engineer, I'm creating apps and libs to help improve the developer experience.",
-  summary: 'Equasea = Equable Sea',
+    "Products introductions,in another way.",
+  summary: 'Equasea = Equanimity + Sea',
   language: 'en-us',
   latestLimit: 5,
 
